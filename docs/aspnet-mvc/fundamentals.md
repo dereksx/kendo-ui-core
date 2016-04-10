@@ -6,9 +6,9 @@ slug: fundamentals_aspnetmvc
 position: 2
 ---
 
-# Fundamentals
+# Fundamentals / 基础
 
-## Overview of Server-Side Wrappers
+## Overview of Server-Side Wrappers / 服务器端封装器概述
 
 Telerik UI for ASP.NET MVC is a set of server-side wrappers.
 
